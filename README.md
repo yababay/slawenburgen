@@ -1,2 +1,3 @@
-# slawenburgen
-Сайт о славянских городах Германии
+# Slawenburgen
+
+[Сайт о славянских городах Германии](https://yababay.github.io/slawenburgen/).
