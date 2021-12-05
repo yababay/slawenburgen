@@ -7,7 +7,7 @@
 * [Судостроение](#slawische-boote.md)
 * [Формы жилищ](#hausformen.md)
 * [Керамика](#slawische-keramikarten.md)
-* [Вытеснение славян](#schlachten.md)
+* [Битвы](#schlachten.md)
 * [Собственные модели](#eigene-modelle.md)
 * [Музеи под открытым небом](#freilichtmuseen.md)
 * [Новые открытия](#news.md)
