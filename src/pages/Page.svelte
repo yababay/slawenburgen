@@ -7,7 +7,9 @@
 
     const fetched = fetch(`content/${content}${content.endsWith('.md') ? '' : '.md'}`)
         .then(res => res.text())
-        .then(txt => converter.makeHtml(txt))
+        .then(txt => converter.makeHtml(
+            txt.replace('<img', '<img style="width: 100%"')
+        ))
 
 </script>
 
@@ -31,5 +33,6 @@
 
 <style>
     article {margin-top: 2rem; max-width: 732px;}
+    article img {width: 100%}
 </style>
 
