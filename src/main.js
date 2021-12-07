@@ -7,5 +7,5 @@ window.location.hash = '/'
 
 setMain()
 
-document.querySelector('header .navbar-brand').textContent = document.title
+document.querySelector('header .navbar-brand span').textContent = document.title
 

@@ -15,7 +15,7 @@
                 converter.makeHtml(el.join('\n'))
                     .replace(/<ul/gm, '<ul class="nav flex-column"')
                     .replace(/<li/gm, '<li class="nav-item"')
-                    .replace(/<a/gm, '<a class="nav-link"')
+                    .replace(/<a/gm, '<a class="nav-link link-secondary"')
             )
         })
 
