@@ -1,5 +1,7 @@
 import svelte from 'rollup-plugin-svelte';
+import svg from 'rollup-plugin-svg';
 import commonjs from '@rollup/plugin-commonjs';
+import json from '@rollup/plugin-json';
 import resolve from '@rollup/plugin-node-resolve';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
@@ -29,7 +31,7 @@ function serve() {
 }
 
 export default {
-	input: 'src/main.js',
+	input: 'src/index.js',
 	output: {
 		sourcemap: true,
 		format: 'iife',
@@ -46,6 +48,8 @@ export default {
 		// we'll extract any component CSS out into
 		// a separate file - better for performance
 		css({ output: 'bundle.css' }),
+		svg(),
+		json(),
 
 		// If you have external dependencies installed from
 		// npm, you'll most likely need these plugins. In
@@ -60,7 +64,7 @@ export default {
 
 		// In dev mode, call `npm run start` once
 		// the bundle has been generated
-		!production && serve('docs'),
+		!production && serve(),
 
 		// Watch the `public` directory and refresh the
 		// browser on changes when not in production

@@ -1,3 +1,4 @@
-# Slawenburgen
+# svelte-meets-yababay
 
-[Сайт о славянских городах Германии](https://yababay.github.io/slawenburgen/).
+Yababay's template for web-frontend.
+
