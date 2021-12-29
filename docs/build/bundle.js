@@ -5904,10 +5904,10 @@
         });
     }
 
-    var title = "Привет, мир!";
+    var title = "Славянские города Германии";
     var author = "Михаил Беляков";
-    var brand = "Привет, мир!";
-    var githubLink = "https://github.com/yababay/svelte-meets-yababay";
+    var brand = "Славянские города Германии";
+    var githubLink = "https://github.com/yababay/slawenburgen";
     var navbarIcons = [
     	{
     		icon: "community"
@@ -5918,66 +5918,169 @@
     ];
     var asideLinks = [
     	{
-    		title: "Первая секция",
-    		link: "#first",
+    		title: "Историческая справка:",
+    		link: "#geschichte.md",
     		links: [
     			{
-    				link: "#first-first.md",
-    				title: "Первая ссылка",
+    				link: "#slawenstamme.md",
+    				title: "Славянские племена",
     				icon: "book"
     			},
     			{
-    				link: "#first-second.md",
-    				title: "Вторая ссылка",
+    				link: "#slawenfursten.md",
+    				title: "Славянские князья",
     				icon: "book"
     			},
     			{
-    				link: "#first-third.md",
-    				title: "Третья ссылка",
+    				link: "#schlachten.md",
+    				title: "Основные войны и битвы",
+    				icon: "book"
+    			},
+    			{
+    				link: "#uberlieferungen.md",
+    				title: "Славянское мировоззрение",
+    				icon: "book"
+    			},
+    			{
+    				link: "#gotterwelt.md",
+    				title: "Религия славян",
+    				icon: "book"
+    			},
+    			{
+    				link: "#eigene-modelle.md",
+    				title: "Модели крепостей",
+    				icon: "book"
+    			},
+    			{
+    				link: "#hausformen.md",
+    				title: "Формы жилищ",
+    				icon: "book"
+    			},
+    			{
+    				link: "#slawische-boote.md",
+    				title: "Судостроение у древних славян",
+    				icon: "book"
+    			},
+    			{
+    				link: "#slawische-keramikarten.md",
+    				title: "Керамика древних славян",
+    				icon: "book"
+    			},
+    			{
+    				link: "#kachenovskiy-01.md",
+    				title: "М.Т. Каченовский о славянах",
+    				icon: "book"
+    			},
+    			{
+    				link: "#news.md",
+    				title: "Новые находки",
+    				icon: "book"
+    			},
+    			{
+    				link: "#freilichtmuseen.md",
+    				title: "Музеи под открытым небом",
+    				icon: "book"
+    			},
+    			{
+    				link: "#impressum.md",
+    				title: "Впечатления",
     				icon: "book"
     			}
     		]
     	},
     	{
-    		title: "Вторая секция",
-    		link: "#second",
+    		title: "Славяне на немецких землях:",
+    		link: "#burgaufbau.md",
     		links: [
     			{
-    				link: "#second-first.md",
-    				title: "Первая ссылка",
+    				link: "#/by-land/berlin.md",
+    				title: "Берлин",
     				icon: "signpost"
     			},
     			{
-    				link: "#second-second.md",
-    				title: "Вторая ссылка",
+    				link: "#/by-land/brandenburg-a-m.md",
+    				title: "Бранденбург (A-M)",
     				icon: "signpost"
     			},
     			{
-    				link: "#second-third.md",
-    				title: "Третья ссылка",
+    				link: "#/by-land/brandenburg-n-z.md",
+    				title: "Бранденбург (N-Z)",
     				icon: "signpost"
-    			}
-    		]
-    	},
-    	{
-    		title: "Третья секция",
-    		link: "#third",
-    		links: [
-    			{
-    				link: "#third-first.md",
-    				title: "Первая ссылка",
-    				icon: "book"
     			},
     			{
-    				link: "#third-second-is-absent.md",
-    				title: "Вторая ссылка",
-    				icon: "book",
-    				style: "danger"
+    				link: "#/by-land/neubrandenburg.md",
+    				title: "Нойбранденбург",
+    				icon: "signpost"
     			},
     			{
-    				link: "#third-third.md",
-    				title: "Третья ссылка",
-    				icon: "book"
+    				link: "#/by-land/wismar.md",
+    				title: "Висмар",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/insel-rugen.md",
+    				title: "Остров Рюген",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/insel-usedom.md",
+    				title: "Остров Узедом",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/mecklenburg-vorpommern-a-m.md",
+    				title: "Мекленбург-Передняя Померания (A-M)",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/mecklenburg-vorpommern-n-z.md",
+    				title: "Мекленбург-Передняя Померания (N-Z)",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/rostock.md",
+    				title: "Росток",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/sachsen-a-m.md",
+    				title: "Саксония (A-M)",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/sachsen-n-z.md",
+    				title: "Саксония (N-Z)",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/sachsen-anhalt.md",
+    				title: "Саксония-Анхальт",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/niedersachsen.md",
+    				title: "Нижняя Саксония",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/thuringen.md",
+    				title: "Тюрингия",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/schwerin.md",
+    				title: "Шверин",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/schleswig-holstein.md",
+    				title: "Шлезвиг-Гольштейн",
+    				icon: "signpost"
+    			},
+    			{
+    				link: "#/by-land/stralsund.md",
+    				title: "Штральзунд",
+    				icon: "signpost"
     			}
     		]
     	}
