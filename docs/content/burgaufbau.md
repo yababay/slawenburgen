@@ -1,12 +1,8 @@
-![alt text](./img/burgauuufbaumittelslawischeburg2021.jpg)
+# Славянские крепости
 
-Aufbau einer slawischen Burganlage
+Нынешние историки делят славянские поселения Германии на три группы: «раннеславянские» (примерно с 700 по 875 гг.), «среднеславянские» (примерно с 875 по 980 гг.) и «позднеславянские» (примерно с 980 по 1220 гг.).
 
-Seitenansicht einer mittelslawischen Niederungsburg von 50 m Durchmesser (spätes 9. bis mittleres 10. Jahrhundert), nach R. Krüger 2021
-
-Heute wird die slawische Besiedlung in Deutschland in drei Abschnitte eingeteilt, die als "frühslawisch" (um 700 bis ca. 875), "mittelslawisch" (um ca. 875 bis 980) und als "spätslawisch" (um ca. 980 bis 1220) bezeichnet werden. Früher war die Bezeichnung: altslawisch, mittelslawisch und jungslawisch gebräuchlich. Ich verwende sowohl die alte als auch die neue Bezeichnung.
-
-Rekonstruktion der ersten mittelslawischen Burg von Mittenwalde "Pennigsberg" in Brandenburg um 870, Zeichnung: Bernd Fischer. Oftmals lagen auch an der Wallinnenseite kleine wasserführende Gräben mit Brunnenanlagen. So hatte man bei einem feindlichen Brandanschlag auf den Burgwall schnell Löschwasser zur Verfügung. Diese Innengräben dienten auch zur Ableitung von Regenwasser.
+Внутри славянских крепостей находились, как правило, небольшие водоносные траншеи с колодцами. Быстрый и легкий доступ к воде был необходим для тушения в случае враждебного поджога оборонительных стен. Внутренние траншеи использовались также для отвода дождевой воды.
 
 Rekonstruktion der letzten Burgphase der mittelslawischen Burg von Mittenwalde "Pennigsberg" in Brandenburg um 930, Zeichnung: Bernd Fischer. Der in die Jahre gekommene Burgwall wurde im Laufe der Zeit mit inneren und äußeren Wallsektionen verstärkt und war im Endstadium etwa 9 m breit. Zudem besaß die letzte Burg eine äußere Lehmberme mit aufgestapelten Feldsteinen. Diese Konstruktion sollte vermutlich gegen Rammwerkzeuge und feindlichen Brandanschlägen schützen.
 
@@ -72,6 +68,5 @@ Vergleich einer heutigen Burgwallruine mit der ehemaligen Wallkonstruktion, nach
 
 In ganz Deutschland soll es um die 700 Slawenburgen gegeben haben. Da ich auch vermutete und abgetragene Burgen aufführe, komme ich auf etwa 800 Slawenburgen auf heute deutschem Gebiet.
 
-zurück
 
 
