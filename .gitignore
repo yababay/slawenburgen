@@ -108,7 +108,4 @@ package-lock.json
 scripts/html.js
 scripts/settings.js
 src/pug_modules/
-public/build/
-public/vendors/
-public/index.html
 
