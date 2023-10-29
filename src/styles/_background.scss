@@ -1,0 +1,9 @@
+body {
+    @media screen and (min-width: $middle-point) {
+        background-image: $body-image;
+        background-repeat: no-repeat;
+        background-position: top right;
+        background-size: $background-image-width, $background-image-height;
+        background-attachment: fixed;
+    }
+}
