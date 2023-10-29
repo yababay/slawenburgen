@@ -1,4 +1,4 @@
-# Aufbau einer slawischen Burganlage
+# Древнеславянские укрепления
 
 ![Seitenansicht einer mittelslawischen Niederungsburg von ca. 50 m Durchmesser (spätes 9. is mittleres 10. Jahrhundert), nach R. Krüger 2022](img/querschnittburgwall2022.jpg)
 
