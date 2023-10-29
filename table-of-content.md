@@ -8,49 +8,40 @@
 
 * [История славян в Германии](/articles/geschichte)
 * [Строительство укреплений](/articles/burgaufbau)
-
-<!--
-* [title](/articles/burgaufbau)
-* [title](/articles/community)
-* [title](/articles/eigene-modelle)
-* [title](/articles/freilichtmuseen)
-* [title](/articles/geschichte)
-* [title](/articles/gotterwelt)
-* [title](/articles/hausformen)
-* [title](/articles/impressum)
-* [title](/articles/kachenovskiy-01)
-* [title](/articles/news)
-* [title](/articles/schlachten)
-* [title](/articles/slawenfursten)
-* [title](/articles/slawenstamme)
-* [title](/articles/slawische-boote)
-* [title](/articles/slawische-keramikarten)
-* [title](/articles/table-of-content)
-* [title](/articles/uberlieferungen)
-* [title](/articles/welcome)
--->
+* [Славянские племена](/articles/slawenstaemme)
+* [Религия и культура](/articles/goetterwelt-und-kult)
+* [Славянские князья](/articles/slawenfuersten)
+* [Битвы](/articles/schlachten)
+* [Традиции](/articles/ibrahim-ibn-jakub)
+* [Формы жилищ](/articles/hausformen)
+* [Типы судов](/articles/bootstypen)
+* [Керамика](/articles/keramik)
+* [Музеи под открытым небом](/articles/freilichtmuseen)
+* [Авторские модели поселений](/articles/eigene-modelle)
+* [Контакты](/articles/impressum-kontakt)
+<!-- * [Новости](/articles/news) -->
 
 ## Особенности славянских поселений в разных землях ФРГ
 
-<!--
-* [title](/articles/by-land-berlin)
-* [title](/articles/by-land-brandenburg-a-m)
-* [title](/articles/by-land-brandenburg-n-z)
-* [title](/articles/by-land-greifswald)
-* [title](/articles/by-land-insel-rugen)
-* [title](/articles/by-land-insel-usedom)
-* [title](/articles/by-land-mecklenburg-vorpommern-a-m)
-* [title](/articles/by-land-mecklenburg-vorpommern-n-z)
-* [title](/articles/by-land-neubrandenburg)
-* [title](/articles/by-land-niedersachsen)
-* [title](/articles/by-land-rostock)
-* [title](/articles/by-land-sachsen-a-m)
-* [title](/articles/by-land-sachsen-anhalt)
-* [title](/articles/by-land-sachsen-n-z)
-* [title](/articles/by-land-schleswig-holstein)
-* [title](/articles/by-land-schwerin)
-* [title](/articles/by-land-stralsund)
-* [title](/articles/by-land-thuringen)
--->
+* [Берлин](/articles/berlin)
+* [Бранденбург (A-M)](/articles/brandenburg)
+* [Бранденбург (N-Z)](/articles/brandenburg-orte-n-z)
+* [Мекленбург-Передняя Померания (A-M)](/articles/mecklenburg-vorpommern-a-m)
+* [Мекленбург-Передняя Померания (N-Z)](/articles/mecklenburg-vorpommern-n-z)
+<!-- * [Грайфсвальд]() https://slawenburgen.hpage.com/mecklenburg-vorpommern/greifswald.html -->
+* [Нойбранденбург](/articles/neubrandenburg)
+* [Росток](/articles/rostock)
+* [Шверин](/articles/schwerin)
+* [Штральзунд](/articles/stralsund)
+<!-- * [Висмар](/articles/wismar)https://slawenburgen.hpage.com/mecklenburg-vorpommern/wismar.html -->
+* [Остров Рюген](/articles/insel-ruegen)
+* [Остров Узедом](/articles/insel-usedom)
+* [Шлезвиг-Гольштейн](/articles/schleswig-holstein)
+* [Саксония (A-M)](/articles/sachsen-orte-a-m)
+* [Саксония (N-Z)](/articles/sachsen-orte-n-z)
+* [Саксония-Анхальт (N-Z)](/articles/sachsen-anhalt)
+* [Нижняя Саксония](/articles/niedersachsen)
+* [Тюрингия](/articles/thueringen)
+
 
 К сожалению, у меня не хватило времени обработать все материалы сайта `Slawenburgen`, так что часть из них здесь размещена на немецком языке. Возможно, кто-нибудь из читателей захочет поучаствовать в переводе. Прошу в таком случае связаться со мной через раздел [Issues](https://github.com/yababay/slawenburgen/issues).
