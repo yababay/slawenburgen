@@ -10,12 +10,9 @@ const config = {
 		prerender: {
 			handleHttpError: 'warn'
 		},
-        // Uncomment next lines for gh-pages deploy.
-        /*
 		paths: {
-            base: process.env.NODE_ENV === 'production' ? '/<your-project-on-github>' : '',
+            base: process.env.NODE_ENV === 'production' ? '/slawenburgen' : '',
 		},
-		*/
 	}
 };
 
