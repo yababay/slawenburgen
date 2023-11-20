@@ -1,7 +1,7 @@
-import { getTableOfContent } from "@yababay67/svelte-components/server/index.js"
-import { ARTICLES_REPOSITORY } from "$env/static/private"
+import { getTableOfContent } from "@yababay67/sveltekit-components/markdown"
+import { name as repo } from "../../package.json"
 
 export async function load({ fetch }){
-    const [  html ] = await getTableOfContent(fetch, ARTICLES_REPOSITORY)
+    const [  html ] = await getTableOfContent(fetch, repo)
     return { html }
 }

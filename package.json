@@ -2,27 +2,31 @@
 	"name": "slawenburgen",
 	"version": "0.0.1",
 	"private": true,
+	"config": {
+		"ssh_host": "random-history",
+		"www_prefix": "me.yababay"
+	},
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build",
-		"preview": "vite preview",
-		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-		"deploy": "npm run build && ./scripts/deploy.sh",
-		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
+		"deploy:nginx": "vite build && rsync -ar build/ $npm_package_config_ssh_host:/var/www/$npm_package_config_www_prefix.$npm_package_name",
+        "deploy:gh-pages": "vite build && gh-pages -d build -t true"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-node": "^1.3.1",
-		"@sveltejs/kit": "^1.20.4",
-		"bootstrap": "^5.3.2",
+		"@sveltejs/adapter-static": "^2.0.3",
+		"@sveltejs/kit": "^1.27.4",
+		"@types/showdown": "^2.0.4",
+		"gh-pages": "^6.1.0",
 		"sass": "^1.69.5",
 		"svelte": "^4.0.5",
-		"svelte-check": "^3.4.3",
+		"svelte-check": "^3.6.0",
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.0",
-		"vite": "^4.4.2"
+		"vite": "^4.4.2",
+		"vitest": "^0.34.0"
 	},
 	"type": "module",
 	"dependencies": {
-		"@yababay67/svelte-components": "^0.1.3"
+		"@yababay67/sveltekit-components": "^1.0.1",
+		"showdown": "^2.1.0"
 	}
 }

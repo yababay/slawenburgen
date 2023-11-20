@@ -1,11 +1,8 @@
 <script lang="ts">
-    import type { WithHtml } from '@yababay67/svelte-components/dist/types'
+    import type { WithHtml } from '@yababay67/sveltekit-components/types'
+    import { Article } from '@yababay67/sveltekit-components'
     export let data: WithHtml
-    const { html, title } = data
+    const { html, title, description } = data
 </script>
 
-{@html html}
-
-<svelte:head>
-    <title>{title}</title>
-</svelte:head>
+<Article {html} {title} {description} />
