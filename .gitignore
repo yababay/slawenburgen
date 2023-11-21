@@ -1,4 +1,5 @@
 /.svelte-kit
+/.tmp
 /build
 /design
 node_modules
